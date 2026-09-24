@@ -3,10 +3,10 @@
 ## What I Learned
 
 - How to connect to an AI model using an API key
-- What tokens are — every word costs tokens, longer input = more cost
-- The model has no memory between separate calls — you have to resend history every time
+- What tokens are, every word costs tokens, longer input = more cost
+- The model has no memory between separate calls, you have to resend history every time
 - How a `messages` list works: system sets rules, user asks, assistant replies
-- Streaming — printing words as they arrive instead of waiting for the full reply
+- Streaming, printing words as they arrive instead of waiting for the full reply
 - How to summarize old context to save tokens (compaction)
 
 ## Problems I Faced and Fixed
